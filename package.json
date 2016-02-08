@@ -1,0 +1,18 @@
+{
+	"name": "domtt",
+	"version": "1.0.0",
+	"description": "DOM tagged template, text-input and innerHTML DOM output",
+	"main": "domtt.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.voodoowarez.com/domtt"
+	},
+	"author": "rektide",
+	"license": "X",
+	"dependencies": {
+		"tagged-template": "^1.0.0"
+	}
+}
